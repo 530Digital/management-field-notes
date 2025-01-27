@@ -1,11 +1,10 @@
 ---
 pubish: false
 type: document
-title: <% tp.file.title %>  
-summary:
+title: <% tp.file.title %>
+summary: 
 tags: 
-authors:
-  - "[[Josh Martinez]]"
+authors: []
 created: 
 updated:
 ---

@@ -4,15 +4,15 @@ type: meeting
 summary: ""
 tags:
   - meetings
-attendees:
-  - "[[Joshua Martinez]]"
+attendees: []
 created: 
 updated:
 ---
 # [[<% tp.file.title %>]] 
 
 ## Attendees
-- [[Joshua Martinez]]
+- Name 1
+- Name 2
 
 ### Agenda
 

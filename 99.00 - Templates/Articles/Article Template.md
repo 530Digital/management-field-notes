@@ -1,7 +1,7 @@
 ---
 pubish: false
 type: article
-title: Meetings Template
+title: <% tp.file.title %>
 summary: ""
 tags: 
 created: 2024-08-16T22:27:48-07:00

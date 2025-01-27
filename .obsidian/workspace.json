@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "e7b800b5d3ede65b",
+        "id": "5ec8519dece14765",
         "type": "tabs",
         "children": [
           {
-            "id": "e4d39994720c887b",
+            "id": "8393758de0801bc5",
             "type": "leaf",
             "state": {
               "type": "empty",
@@ -154,6 +154,20 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "e4d39994720c887b",
-  "lastOpenFiles": []
+  "active": "8393758de0801bc5",
+  "lastOpenFiles": [
+    "99.00 - Templates/People/Person Template.md",
+    "99.00 - Templates/People/One on One Tempate.md",
+    "99.00 - Templates/People/Call Template.md",
+    "99.00 - Templates/Meetings/Meetings Template.md",
+    "99.00 - Templates/Journal/Unstructured Note Template.md",
+    "99.00 - Templates/Journal/Daily Notes Template.md",
+    "99.00 - Templates/Goals/Goal Template.md",
+    "99.00 - Templates/Documentation/Technical Document Template.md",
+    "99.00 - Templates/Documentation/Document Template.md",
+    "99.00 - Templates/Books/Book Template.md",
+    "99.00 - Templates/Articles/Article Template.md",
+    "00.00 - Help/00.00 - Help.md",
+    "00.00 - Help/01.00 - Dashboards.md"
+  ]
 }

@@ -24,6 +24,6 @@ updated:
 - Item 3  
   
 ## Tasks  
-- [ ] Task 1 #josh-todo  
-- [ ] Task 2 #josh-todo  
-- [ ] Task 3 #josh-todo
+- [ ] Task 1  
+- [ ] Task 2
+- [ ] Task 3

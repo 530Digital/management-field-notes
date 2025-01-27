@@ -2,16 +2,15 @@
 title: Person Template
 publish: false
 type: Goal
-who: "[[Josh Martinez]]"
+who: 
 status: todo
 difficulty: 0
 effort: 0
 category: 
 tags:
   - Goals
-authors:
-  - "[[Josh Martinez]]"
-created:
+authors: []
+created: 
 updated:
 ---
 # Person Template
