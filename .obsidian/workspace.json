@@ -4,17 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "5ec8519dece14765",
+        "id": "11f24d16f19fa0b3",
         "type": "tabs",
         "children": [
           {
-            "id": "8393758de0801bc5",
+            "id": "6f7915dbf4b6d4c4",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "README.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "README"
             }
           }
         ]
@@ -154,7 +158,7 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "8393758de0801bc5",
+  "active": "6f7915dbf4b6d4c4",
   "lastOpenFiles": [
     "99.00 - Templates/People/Person Template.md",
     "99.00 - Templates/People/One on One Tempate.md",
