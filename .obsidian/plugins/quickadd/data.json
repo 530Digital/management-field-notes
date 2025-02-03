@@ -1,5 +1,152 @@
 {
-  "choices": [],
+  "choices": [
+    {
+      "id": "62bce7d4-07c3-45ca-9c2e-9e98e9e3984d",
+      "name": "Create Person",
+      "type": "Template",
+      "command": true,
+      "templatePath": "99.00 - Templates/People/Person Template.md",
+      "fileNameFormat": {
+        "enabled": true,
+        "format": "{{VALUE}}"
+      },
+      "folder": {
+        "enabled": true,
+        "folders": [
+          "90.00 - People/{{VALUE}}"
+        ],
+        "chooseWhenCreatingNote": false,
+        "createInSameFolderAsActiveFile": false,
+        "chooseFromSubfolders": false
+      },
+      "appendLink": false,
+      "openFileInNewTab": {
+        "enabled": false,
+        "direction": "vertical",
+        "focus": true
+      },
+      "openFile": false,
+      "openFileInMode": "default",
+      "fileExistsMode": "Nothing",
+      "setFileExistsBehavior": false
+    },
+    {
+      "id": "286f912a-8b69-41ee-96c3-9b7be60d221a",
+      "name": "Create Meeting",
+      "type": "Template",
+      "command": true,
+      "templatePath": "99.00 - Templates/Meetings/Meetings Template.md",
+      "fileNameFormat": {
+        "enabled": true,
+        "format": "{{DATE:YYYY-MM}}/{{DATE:YYY-MM-DD}} {{VALUE}}"
+      },
+      "folder": {
+        "enabled": true,
+        "folders": [
+          "04.00 - Meetings"
+        ],
+        "chooseWhenCreatingNote": false,
+        "createInSameFolderAsActiveFile": false,
+        "chooseFromSubfolders": false
+      },
+      "appendLink": false,
+      "openFileInNewTab": {
+        "enabled": true,
+        "direction": "vertical",
+        "focus": true
+      },
+      "openFile": true,
+      "openFileInMode": "default",
+      "fileExistsMode": "Nothing",
+      "setFileExistsBehavior": false
+    },
+    {
+      "id": "350c210c-8dd1-48aa-94fe-4e102df3809d",
+      "name": "Create Doc",
+      "type": "Template",
+      "command": true,
+      "templatePath": "99.00 - Templates/Documentation/Technical Document Template.md",
+      "fileNameFormat": {
+        "enabled": true,
+        "format": "{{VALUE}}"
+      },
+      "folder": {
+        "enabled": true,
+        "folders": [
+          "05.00 - Documentation/05.01 - Drafts"
+        ],
+        "chooseWhenCreatingNote": false,
+        "createInSameFolderAsActiveFile": false,
+        "chooseFromSubfolders": false
+      },
+      "appendLink": false,
+      "openFileInNewTab": {
+        "enabled": true,
+        "direction": "vertical",
+        "focus": true
+      },
+      "openFile": true,
+      "openFileInMode": "default",
+      "fileExistsMode": "Nothing",
+      "setFileExistsBehavior": false
+    },
+    {
+      "id": "d20b8c7b-6ce4-4bf0-a424-4e01e32a4ff7",
+      "name": "Create One-on-One",
+      "type": "Template",
+      "command": true,
+      "templatePath": "99.00 - Templates/People/One on One Tempate.md",
+      "fileNameFormat": {
+        "enabled": true,
+        "format": "{{DATE:YYYY-MM-DD}} One-on-One"
+      },
+      "folder": {
+        "enabled": true,
+        "folders": [],
+        "chooseWhenCreatingNote": true,
+        "createInSameFolderAsActiveFile": false,
+        "chooseFromSubfolders": false
+      },
+      "appendLink": false,
+      "openFileInNewTab": {
+        "enabled": true,
+        "direction": "vertical",
+        "focus": true
+      },
+      "openFile": true,
+      "openFileInMode": "default",
+      "fileExistsMode": "Nothing",
+      "setFileExistsBehavior": false
+    },
+    {
+      "id": "fbf212a1-a3c2-47af-8c28-762d48ce12d0",
+      "name": "Create Call",
+      "type": "Template",
+      "command": true,
+      "templatePath": "99.00 - Templates/People/Call Template.md",
+      "fileNameFormat": {
+        "enabled": true,
+        "format": "{{DATE:YYYY-MM-DD}}"
+      },
+      "folder": {
+        "enabled": true,
+        "folders": [],
+        "chooseWhenCreatingNote": true,
+        "createInSameFolderAsActiveFile": false,
+        "chooseFromSubfolders": false
+      },
+      "appendLink": false,
+      "openFileInNewTab": {
+        "enabled": true,
+        "direction": "vertical",
+        "focus": true
+      },
+      "openFile": true,
+      "openFileInMode": "default",
+      "fileExistsMode": "Increment the file name",
+      "setFileExistsBehavior": true
+    }
+  ],
   "macros": [],
   "inputPrompt": "single-line",
   "devMode": false,
